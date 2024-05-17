@@ -1,0 +1,21 @@
+{
+  "name": "cjphp/rate-limiter",
+  "description": "php限流器",
+  "type": "library",
+  "require": {
+    "php": ">=8.1"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "RateLimiter\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "chenji",
+      "email": "hn.chenji@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
